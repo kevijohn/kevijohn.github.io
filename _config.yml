@@ -1,1 +1,9 @@
-theme: jekyll-theme-tactile
+title: Trenchcoding
+author:
+  name: kevijohn
+  email: kevijohn@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Reports from the front lines of development.
+
+#theme: jekyll-theme-tactile
+remote_theme: jekyll/minima
