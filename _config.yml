@@ -1,12 +1,14 @@
-title: Trenchcoding
-author:
-  name: kevijohn
-  email: kevijohn@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Reports from the front lines of development.
-
+title: "Trenchcoding"
+author: "Kevin Johnson"
+email: "kevijohn@gmail.com"
+description: "Reports from the front lines of development."
+  
 #theme: jekyll-theme-tactile
-remote_theme: jekyll/minima
+theme: "minima"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
