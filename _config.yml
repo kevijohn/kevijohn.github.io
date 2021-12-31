@@ -1,22 +1,22 @@
+theme: minima
+
 title: "Trenchcoding"
 author: "Kevin Johnson"
 email: "kevijohn@gmail.com"
 description: "Reports from the front lines of development."
-  
-#theme: jekyll-theme-tactile
-theme: jekyll-theme-cayman
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+timezone: UTC # GitHub uses UTC. This is to force dev environment to match
+
+rss: rss
+
+show_excerpts: true
 
 titles_from_headings:
   strip_title: true
-  collections: true
 
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       tags: Other
