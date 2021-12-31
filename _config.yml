@@ -7,3 +7,14 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 #theme: jekyll-theme-tactile
 remote_theme: jekyll/minima
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
