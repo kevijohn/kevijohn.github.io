@@ -13,6 +13,11 @@ rss: rss
 
 show_excerpts: true
 
+# Used by simple links page
+social-links:
+  LinkedIn:      https://www.linkedin.com/in/kevin-johnson-cissp-ccsp-3879321a/
+  GitHub:        https://github.com/kevijohn
+
 titles_from_headings:
   strip_title: true
 
