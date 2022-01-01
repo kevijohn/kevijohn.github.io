@@ -11,7 +11,7 @@ future: false # GitHub Pages will publish future posts if this isn't set to fals
 
 rss: rss
 
-show_excerpts: true
+show_excerpts: false
 
 # Used by simple links page
 social-links:
