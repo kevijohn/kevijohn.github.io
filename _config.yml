@@ -4,8 +4,10 @@ title: "Trenchcoding"
 author: "Kevin Johnson"
 email: "kevijohn@gmail.com"
 description: "Reports from the front lines of development."
+url: "https://www.trenchcoding.com"
 
 timezone: UTC # GitHub uses UTC. This is to force dev environment to match
+future: false # GitHub Pages will publish future posts if this isn't set to false
 
 rss: rss
 
@@ -13,6 +15,17 @@ show_excerpts: true
 
 titles_from_headings:
   strip_title: true
+
+header_pages:
+  - archive.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+code_block_max_height: 500px
+
+home_post_limit: 5
 
 defaults:
   - scope:

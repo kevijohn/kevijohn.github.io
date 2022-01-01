@@ -1,1 +1,1 @@
-content outside header in index md 2:40pm
+Reports from the front lines of development.  This is my attempt to contribute to the profession, to share knowledge and experience I've gained whilst grinding out code and wrestling with all kinds of tooling.  Hope you find something useful here.
