@@ -11,7 +11,7 @@ future: false # GitHub Pages will publish future posts if this isn't set to fals
 
 rss: rss
 
-show_excerpts: false
+show_excerpts: true
 
 # Used by simple links page
 social-links:
@@ -19,7 +19,7 @@ social-links:
   GitHub:        https://github.com/kevijohn
 
 titles_from_headings:
-  strip_title: true
+  strip_title: false
 
 header_pages:
   - archive.html
