@@ -1,9 +1,9 @@
 ---
-title: Setting Up Shop (part 1)
+title: Setting up shop (part 1)
 published: true
 ---
 
-I suppose a fitting early post would be about how I set up this blog.  Early on, I thought about signing up for WordPress or standing up a server hosted somewhere and running my own WordPress instance.  After all, as of now I don't have any WordPress experience, either as a user or developer.  For me, its reputation preceeds it as: 1) a popular blogging platform, and 2) a security nightmare.  It may be selection bias since I follow a lot of cybersecurity news, but when I read about WordPress, more often than not it involves some issue related to security, and it's never good.  I decided I'd rather spend my time creating content instead of administering my own private WordPress instance.  Of course I could pay for a managed instance, which is constantly patched and thus more secure, but free is always better, and that's what led me to [GitHub Pages](https://pages.github.com/).  
+I suppose a fitting early post would be about how I set up this blog.  Early on, I thought about signing up for WordPress or standing up a server hosted somewhere and running my own WordPress instance.  After all, as of now I don't have any WordPress experience, either as a user or developer.  For me, its reputation preceeds it as: 1) a popular blogging platform, and 2) a security nightmare.  It may be selection bias on my part since I follow a lot of cybersecurity news, but when I read about WordPress, more often than not it involves some issue related to security, and it's never good.  I decided I'd rather spend my time creating content instead of administering my own private WordPress instance.  Of course I could pay for a managed instance, which is constantly patched and thus more secure, but free is always better, and that's what led me to [GitHub Pages](https://pages.github.com/).  
 
 # Grab that domain
 
@@ -19,7 +19,7 @@ Now we're getting somewhere!  Next I needed to point the custom domain I bought 
 
 After that, I had to go to NameSilo and follow their instructions for configuring DNS.  Thankfully they already had a template specifically for GitHub, I just needed to apply it to my domain's configuration.  Lastly, I had to wait some time for all these changes to propagate through various DNS servers.
 
-DON'T FORGET the [custom domain verification ](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) step!
+DON'T FORGET the [custom domain verification](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) step!
 
 # More to come
 
