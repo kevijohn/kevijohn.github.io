@@ -11,7 +11,7 @@ The first thing I did was buy a domain name for my blog.  It's not a requirement
 
 # Create the repo
 
-Next step was to create a repo for the blog.  GitHub is very specific about how you name the repo, and you can only have one Pages repo per GitHub user.  There may be other options for organizations and projects,  but it started to feel like I was going down a rabbit hole that ultimately was not a good fit for my needs.  I'm not going to spend time here going into detail of setting up GitHub Pages, [see here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for GitHub's own documentation.  By default, the URL for a GitHub Pages site is http://\<github username\>.github.io.  At the end of the setup process, I was able to (and still can) navigate to <https://kevijohn.github.io> and see the contents of the readme.md file in the repo.  
+Next step was to create a repo for the blog.  GitHub is very specific about how you name the repo, and you can only have one Pages repo per GitHub user.  There may be other options for organizations and projects,  but it started to feel like I was going down a rabbit hole that ultimately was not a good fit for my needs.  I'm not going to spend time here going into detail of setting up GitHub Pages, [see here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for GitHub's own documentation.  By default, the URL for a GitHub Pages site is http://\<github username\>.github.io.  At the end of the setup process, I was able to navigate to <https://kevijohn.github.io> and see the contents of the readme.md file in the repo (I've since built out the full blog which takes place of the readme on the page).  
 
 It's alive! ALIVE!!!
 
