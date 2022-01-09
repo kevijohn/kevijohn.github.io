@@ -26,7 +26,7 @@ As I said earlier, I was transplanting files between Chad's repo and mine to get
 
 # Checking the pipeline
 
-![github-environments](/img/setting-up-shop-2/github-environments.PNG)  
+![github-environments](/img/setting-up-shop-2/github_environments.PNG)  
 
 Come to find out that, on the page of my repo in GitHub, on the right-hand side, there's a section called "Environments".  There was one item listed there: "github-pages", and there was a status indicator showing a failure.  Clicking on it, I was taken to a page that looked very similar to the Azure DevOps pipelines page I've seen at my day job.  I inferred that what I was looking at was a pipeline GitHub is using to build a static site from my repo and deploy to an environment for github-pages.  I clicked on one of the failed deployments, clicked on the Build task on the left, and found an error:
 <p style="color:red">
