@@ -1,5 +1,5 @@
 ---
-title: Renaming Things
+title: Renaming things using Visual Studio
 published: true
 ---
 
